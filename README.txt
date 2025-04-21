@@ -25,7 +25,7 @@ La prueba consiste en automatizar la creación de un artículo en un CMS, consid
 ** Como ejecutar las pruebas.
 
 - Abrir el proyecto en el IDE de preferencia (Yo lo realicé con IntelliJ)
-- Abrir el archivo CrearArticuloTest.
+- Abrir el archivo CrearArticuloTest en la ruta prueba-end-to-end/src/test/java/Tests/CrearArticuloTest
 - Dar clic en Run en la parte superior del IDE.
 - Esperar que se ingresen las credenciales automáticamente
 - Realizar el captcha manual (Se tienen configurados 20 segundos de espera)
